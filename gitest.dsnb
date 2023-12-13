@@ -20,6 +20,30 @@
         "hasTitle" : false,
         "message" : [
           "%md",
+          "new paragraph"
+        ],
+        "selectedVisualization" : null,
+        "visualizationConfig" : null,
+        "hideCode" : false,
+        "hideResult" : false,
+        "hideGutter" : true,
+        "hideVizConfig" : false,
+        "hideInIFrame" : false,
+        "enabled" : true,
+        "forms" : null,
+        "result" : null,
+        "relations" : [ ],
+        "dynamicFormParams" : null
+      },
+      {
+        "row" : 0,
+        "col" : 0,
+        "sizeX" : 0,
+        "width" : 0,
+        "title" : null,
+        "hasTitle" : false,
+        "message" : [
+          "%md",
           "this notebook is for test"
         ],
         "selectedVisualization" : "html",
